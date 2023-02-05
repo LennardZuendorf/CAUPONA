@@ -3,7 +3,7 @@
 
 [Caupona] was a companion  for Student Cafeterias in Berlin. It was a project developed during the course "Programming of mobile Apps". The course is part of HTW Berlins' Ba Sc. Business Computing.
 
-It was started but never completely finished. This is the archive for it.
+It was started but never completely finished. This is the archive for it. **At some point this all worked, but it's broken now.**
 
 
 ## Authors
