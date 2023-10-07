@@ -5,7 +5,7 @@
 #### It was started but never finished. This is the archive for it. Most of it was built over a week and in the middle of the night 
 **At some point this all worked, but it's broken now.**
 
-> ⚠️ Success
+> ⚠️
 > Project is not running anymore and not actively maintained.
 
 ## 🏗️ Tech Stack:
